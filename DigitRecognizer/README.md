@@ -1,6 +1,6 @@
 # Digit Recognizer
 
-This folder contains two model: `Simple SVM classifier` and `Three-Layer-CNN`. 
+This folder contains two models: `Simple SVM classifier` and `Three-Layer-CNN`. 
 
 The **SVM** model scored 0.77, it was implemented using sklearn. 
 
